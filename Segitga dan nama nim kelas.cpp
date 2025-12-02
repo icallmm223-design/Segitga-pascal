@@ -24,7 +24,7 @@ int main () {
         cout << endl;
         
     }
-    cout << "==========";
+    cout << "===============";
     
     cout << "\nname; mohamad rifky ramadani";
     cout << "\nNIM; 23104410065";
